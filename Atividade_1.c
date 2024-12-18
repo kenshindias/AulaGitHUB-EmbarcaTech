@@ -10,7 +10,7 @@ considerando as seguintes alíquotas:
 */
 
 #include <stdio.h>
-
+//Modificação para teste
 float calcularImposto(int faixa, float salarioBruto) {
     float aliquota;
     switch (faixa) {
