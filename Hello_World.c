@@ -2,7 +2,7 @@
 
 int main() {
     int numero, invertido;
-
+    printf("Esse programa dá o número invertido!\n");
     printf("Digite um numero entre 100 e 999: ");
     scanf("%d", &numero);
     //Mais um comentário
