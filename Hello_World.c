@@ -5,7 +5,7 @@ int main() {
 
     printf("Digite um numero entre 100 e 999: ");
     scanf("%d", &numero);
-
+    //Mais um comentário
     // Verifica se o número está dentro do intervalo
     if (numero < 100 || numero > 999) {
         printf("Erro: Numero fora do intervalo!\n");
